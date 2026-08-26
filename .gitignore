@@ -1,0 +1,5 @@
+*.hi
+*.o
+haskell-area
+haskell-area.exe
+.DS_Store
