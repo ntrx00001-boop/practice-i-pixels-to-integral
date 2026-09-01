@@ -6,7 +6,7 @@ ST0244 — Programming Paradigms, EAFIT University (Alexander Narváez, Aug 2026
 ## Team members
 
 - Andres Santiago Jaimes Mora
-- *(add the rest of the team names here)*
+- Miguel Jimenez Moreno
 
 ## Development environment
 
